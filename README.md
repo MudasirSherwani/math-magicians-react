@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 Math Magicians React <a name="about-project"></a>
 
-> This is the first project of the Math Magicians application. You will setup the environment and tools needed to develop a React application. In the following projects, I developed the actual application.
+> This is the first project of the Math Magicians application using with react. You will setup the environment and tools needed to develop a React application. In the following projects, I developed the actual application.
 
 # 📗 Table of Contents
 
@@ -25,7 +25,7 @@
 - [📝 License](#license)
 
 
-**[Math Magicians: Setup]** is create to initiate single page react application startup.
+**Math Magicians: Setup** is created to initiate single page react application startup.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,7 +33,7 @@
 - HTML
 - CSS
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React]((https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/lessons/webpack_v1_1.md))
+- [React](https://github.com/microverseinc/curriculum-javascript/blob/main/todo-list/lessons/webpack_v1_1.md)
 
 <details>
   <summary>Server</summary>
@@ -51,9 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Example of Single Page Application]**
-- **[Calculator]**
-- **[Consist of Three Pages]**
+- **Example of Single Page Application**
+- **Calculator**
+- **Consist of Three Pages**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
