@@ -14,19 +14,20 @@
 }
 
 .display-value {
-  width: 100%;
-  height: 60px;
+  width: 300px;
+  height: 40px;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background-color: #858694;
+  background-color: #9798a1;
   color: #fff;
   padding-inline-end: 5px;
   text-align: right;
   padding: 17px;
-  font-size: 30px;
+  font-size: 20px;
   cursor: default;
+  border: none;
 }
 
 .inputs {
@@ -37,11 +38,12 @@
 }
 
 button {
-  width: 100px;
-  height: 70px;
+  width: 75px;
+  height: 42px;
   margin: 0;
   border: 0.05px solid rgb(196, 190, 190);
-  background-color: #e1e2e9;
+  font-size: 10px;
+  background-color: #dddfdb;
 }
 
 button:hover {
@@ -62,5 +64,5 @@ button:hover {
 
 .btn-zero {
   grid-column: 1 / 3;
-  width: 200px;
+  width: 150px;
 }
