@@ -25,7 +25,7 @@
 - [📝 License](#license)
 
 
-**Math Magicians: Setup** is created to initiate single page react application startup.
+**Math Magicians: Components** React componenet are the core functionality for a calculator
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -156,7 +156,7 @@ I would like to thanks [Lucas David Erkana](https://github.com/Lucash2022) to gu
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/MudasirSherwani/math-magicians-react/blob/main/LICENSE.md) licensed.
+This project is [MIT](https://github.com/MudasirSherwani/math-magicians-react/blob/Components/LICENSE.md) licensed.
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
