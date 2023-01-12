@@ -25,7 +25,12 @@
 - [📝 License](#license)
 
 
-**Math Magicians: Components** React componenet are the core functionality for a calculator
+**Math Magicians: Events** 
+I have learned in theis project about :
+- Handle events in a React app.
+- Use React life cycle methods.
+- Understand the mechanism of lifting state up.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
