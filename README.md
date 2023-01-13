@@ -25,7 +25,7 @@
 - [📝 License](#license)
 
 
-**Math Magicians: Components** React componenet are the core functionality for a calculator
+**Math Magicians: Hooks** Refactor the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
