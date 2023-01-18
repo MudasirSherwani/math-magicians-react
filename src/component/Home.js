@@ -1,6 +1,7 @@
 import React from 'react';
-import './Home.css';
-import { LoremIpsum, Avatar } from 'react-lorem-ipsum';
+import './home.css';
+import { LoremIpsum } from 'react-lorem-ipsum';
+
 const Home = () => (
   <div className="homepage">
     <h2 className="heading">Welcome to our page!</h2>
