@@ -8,9 +8,9 @@ const Quote = () => (
       <br />
       I see life almost like one long University education that I never had --
       <br />
-      everyday I’m learning something new
+      Everyday I’m learning something new.
       <br />
-      - Richard Branson
+      -- Richard Branson --
     </div>
   </div>
 );

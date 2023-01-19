@@ -25,7 +25,7 @@
 - [📝 License](#license)
 
 
-**Math Magicians: Hooks** Refactor the Calculator component (components/Calculator.js) from a class based component to a functional component with hooks.
+**Math Magicians: Full Website** In this project, I have create a full website for the Math magicians app, consisting of several pages and using the components I already created.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -133,7 +133,7 @@ https://netlify.app/
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **[Statistical Calculator]**
+- [ ] **Statistical Calculator**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
