@@ -9,8 +9,9 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
-  margin-top: 5%;
+  align-items: flex-end;
+  margin-top: 3%;
+  margin-right: 15%;
 }
 
 .display-value {
@@ -44,6 +45,12 @@ button {
   border: 0.05px solid rgb(196, 190, 190);
   font-size: 10px;
   background-color: #dddfdb;
+}
+
+h2 {
+  font-size: 36px;
+  margin-left: 0.5%;
+  margin-top: 3%;
 }
 
 button:hover {
