@@ -60,7 +60,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Math Magician](https://yourdeployedapplicationlink.com)
+- [Math Magician](https://math-magicians-react-8rcn.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -114,7 +114,7 @@ To run the tests in a development server, execute the following command:
 
 You can deploy this project using:
 
-https://netlify.app/
+https://render.com/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
